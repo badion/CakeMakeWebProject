@@ -1,4 +1,4 @@
 CakeMakeWebProject
 ==================
 
-Project for ordering cakes
+Project for ordering cakes!
